@@ -13,3 +13,4 @@ O que foi utilizado neste projeto:
  - HTML, CSS, JS
 
 ### Link do site no GitHub Pages 🌐
+https://diogo-cedran.github.io/prova_programacao_web_2/
